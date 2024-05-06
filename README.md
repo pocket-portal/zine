@@ -1,6 +1,8 @@
 Imagine you're on a train, in an area with poor cell reception. You look for available Wi-Fi networks, and there's one called "Come Get
 This Wi-Fi". When you connect, you get a pop-up window that says, "Sorry, this network doesn't connect to the internet! Enjoy this essay!" And what follows is something you never would've read otherwise!
 
+![Picture of my hand holding the first print of the "Pocket Portal Power Play" zine. I'm standing outside, on a random sidewalk in Montréal, walking back from the print store where I feverishly sliced and stapled 20 zines for participants.](https://i.imgur.com/rBIX98i.jpeg)
+
 This zine will show you how to make your own wi-fi access point and web server using a Wemos D1 mini board. The Wemos D1 mini is small, cheap, and easy to program using the Arduino IDE.
 
 # Details
@@ -35,6 +37,9 @@ Here's how those settings look like in Acrobat:
 5. Fold the whole stack in half left-to-right and staple/bind the spine.
 
 ![Zine assembly illustration by Nash High for the Zine Arranger](https://i.imgur.com/QUZWc3g.png)
+
+
+You're done! Admire your marvelous copy of the zine.
 
 # Editing the Zine
 

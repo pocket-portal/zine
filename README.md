@@ -18,7 +18,7 @@ The print-version of the zine was generated using the incredible [Zine Arranger 
 
 ## Printing Setup
 
-To prepare the zine, download the print-ready PDF version of the zine from the [repo](https://github.com/pocket-portal/zine). Send it for print with the following settings:
+To prepare the zine, download the [print-ready PDF version](https://github.com/pocket-portal/zine/blob/main/Pocket%20Portal%20Power%20Play%20-%20print-ready%20-%20(v1).pdf) of the zine from the [repo](https://github.com/pocket-portal/zine). Send it for print with the following settings:
 - US Letter sized paper
 - 100% scale
 - Double-sided (Flip on long edge)
@@ -30,11 +30,10 @@ Here's how those settings look like in Acrobat:
 ## Assembly
 (Taken from the [Zine Arranger Printing Instructions](https://html-classic.itch.zone/html/5825267-604447/ZineArranger/folding.html?q2ps))
 
-1. Once printed, keep sheets stacked in the order they printed.
-2. Lay the pile with the front cover at the top right.
-3. Cut the entire pile in half horizontally. A guillotine paper cutter will make this proccess much easier, especially if you're printing multiple zines.
-4. Stack the top pile on top of the bottom. The front & back covers should be on top. Check the order of pages, making sure pages 14-15 and 42-43 follow each other.
-5. Fold the whole stack in half left-to-right and staple/bind the spine.
+1. Once printed, keep sheets stacked in the order they printed.Lay the pile with the front cover at the top right.
+2. Cut the entire pile in half horizontally. A guillotine paper cutter will make this proccess much easier, especially if you're printing multiple zines.
+3. Stack the top pile on top of the bottom. The front & back covers should be on top. Check the order of pages, making sure pages 14-15 and 42-43 follow each other.
+4. Fold the whole stack in half, left-to-right, along the line. Staple/bind the spine.
 
 ![Zine assembly illustration by Nash High for the Zine Arranger](https://i.imgur.com/QUZWc3g.png)
 

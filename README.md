@@ -6,11 +6,13 @@ This Wi-Fi". When you connect, you get a pop-up window that says, "Sorry, this n
 This zine will show you how to make your own wi-fi access point and web server using a Wemos D1 mini board. The Wemos D1 mini is small, cheap, and easy to program using the Arduino IDE.
 
 # Details
-The following zine was created for the workshop "Pocket Portal Power Play: Crafting Wi-Fi Access Points with a Twist", hosted for the first time at the [2024 Open Hardware Summit](https://2024.oshwa.org/).
+The following zine was created for the workshop "[Pocket Portal Power Play: Crafting Wi-Fi Access Points with a Twist](https://www.candide.xyz/wifi-portal-oshwa/)", hosted for the first time at the [2024 Open Hardware Summit](https://2024.oshwa.org/).
 
-The zine is a remix of the ["Spread ideas with a pocket wi-fi portal"](https://iffybooks.net/pocket-wifi-portal/) zine by [Iffy Books](https://iffybooks.net/about/), licensed under Anti-copyright, no rights reserved.
+The zine is a remix of the "[Spread ideas with a pocket wi-fi portal](https://iffybooks.net/pocket-wifi-portal/)" zine by [Iffy Books](https://iffybooks.net/about/), licensed under Anti-copyright, no rights reserved.
 
-The zine has two versions: a digital version, and a quarter-page print-ready version. Both versions have the same dimensions (quarter of a US letter size sheet).
+The zine has two versions: a digital version and a quarter-page print-ready version. Both versions have the same dimensions (quarter of a US letter size sheet).
+
+Follow the instructions below to [assemble](#printing-and-assembling-the-zine) and [edit](#editing-the-zine) the zine at home.
 
 # Printing and Assembling the Zine
 
@@ -30,9 +32,12 @@ Here's how those settings look like in Acrobat:
 ## Assembly
 (Taken from the [Zine Arranger Printing Instructions](https://html-classic.itch.zone/html/5825267-604447/ZineArranger/folding.html?q2ps))
 
-1. Once printed, keep sheets stacked in the order they printed.Lay the pile with the front cover at the top right.
+1. Once printed, keep sheets stacked in the order they printed. Lay the pile with the front cover (F) at the top right.
+
 2. Cut the entire pile in half horizontally. A guillotine paper cutter will make this proccess much easier, especially if you're printing multiple zines.
-3. Stack the top pile on top of the bottom. The front & back covers should be on top. Check the order of pages, making sure pages 14-15 and 42-43 follow each other.
+
+3. Stack the top pile (B | F) on top of the bottom. The front & back covers should be on top. Check the order of pages, making sure pages 14-15 and 42-43 follow each other.
+
 4. Fold the whole stack in half, left-to-right, along the line. Staple/bind the spine.
 
 ![Zine assembly illustration by Nash High for the Zine Arranger](https://i.imgur.com/QUZWc3g.png)
@@ -42,7 +47,7 @@ You're done! Admire your marvelous copy of the zine.
 
 # Editing the Zine
 
-1. [Download the fonts](https://github.com/pocket-portal/zine/tree/main/fonts) used for the zine and install them on your computer: [Aileron](https://tipotype.com/underground/aileron/) and [Space Mono](https://www.colophon-foundry.org/custom-projects/space-mono).
+1. [Download the fonts](https://github.com/pocket-portal/zine/tree/main/fonts) used in the zine and install them on your computer: [Aileron](https://tipotype.com/underground/aileron/) and [Space Mono](https://www.colophon-foundry.org/custom-projects/space-mono).
 
 2. Download the editable version `.docx` of the zine from the [repo](https://github.com/pocket-portal/zine).
    
@@ -57,7 +62,7 @@ You're done! Admire your marvelous copy of the zine.
 6. Once it's ready, refer to the [print and assembly instructions](#printing-and-assembling-the-zine).
 
 
-# How is this different from the original?
+# Changelog: How is this different from the original?
 
 The key difference between this zine and [Iffy Books's zine](https://iffybooks.net/pocket-wifi-portal/) is that the captive portal method uses a newer version of the Arduino IDE (2.x+) and the LittleFS filesystem instead of SPIFFS.
 

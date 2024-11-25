@@ -16,7 +16,7 @@ Follow the instructions below to [assemble](#printing-and-assembling-the-zine) a
 
 # Printing and Assembling the Zine
 
-The print-version of the zine was generated using the incredible [Zine Arranger Tool by Nash High](https://html-classic.itch.zone/html/5825267-604447/ZineArranger/index.html) ([itch page](https://nashhigh.itch.io/zinearranger), [source code](https://github.com/romadox/zine-arranger)).
+The print-version of the zine was generated using the incredible [Zine Arranger Tool by Nash High](https://nashhigh.itch.io/zinearranger) ([source code](https://github.com/romadox/zine-arranger)).
 
 ## Printing Setup
 
@@ -27,7 +27,7 @@ To prepare the zine, download the [print-ready PDF version](https://github.com/p
 
 Here's how those settings look like in Acrobat:
 
-![Screenshot of print settings in Adobe Acrobat](https://i.imgur.com/4M9dgmY.png)
+![Screenshot of print settings in Adobe Acrobat](https://i.imgur.com/IfJDhph.png)
 
 ## Assembly
 (Taken from the [Zine Arranger Printing Instructions](https://html-classic.itch.zone/html/5825267-604447/ZineArranger/folding.html?q2ps))
@@ -55,7 +55,7 @@ You're done! Admire your marvelous copy of the zine.
 
 4. Export the document as a PDF.
 
-5. To prepare the zine for print, you could use a zine preparing tool like [Zine Arranger by Nash High](https://html-classic.itch.zone/html/5825267-604447/ZineArranger/index.html). Make sure that the final number of pages are a multiple of 8.
+5. To prepare the zine for print, you could use a zine preparing tool like [Zine Arranger by Nash High](https://nashhigh.itch.io/zinearranger). Make sure that the final number of pages are a multiple of 8.
  Here are the settings I used to prepare the quarter zine for print in the Zine Arranger:
   ![Selected options in the Zine Arranger](https://i.imgur.com/o60w50O.png)
 

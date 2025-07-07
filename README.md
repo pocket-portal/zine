@@ -27,7 +27,7 @@ To prepare the zine, download the [print-ready PDF version](https://github.com/p
 
 Here's how those settings look like in Acrobat:
 
-![Screenshot of print settings in Adobe Acrobat](https://i.imgur.com/IfJDhph.png)
+![Screenshot of print settings in Adobe Acrobat](https://i.imgur.com/vkfTiab.png)
 
 ## Assembly
 (Taken from the [Zine Arranger Printing Instructions](https://html-classic.itch.zone/html/5825267-604447/ZineArranger/folding.html?q2ps))
